@@ -5,7 +5,7 @@ version = '0.7.dev0'
 setup(name='mauritstestpackage',
       version=version,
       description="Test package from Maurits for uploading to PyPI.",
-      long_description=(open('README.txt').read() + '\n\n' +
+      long_description=(open('README.rst').read() + '\n\n' +
                         open('CHANGES.rst').read()),
       # Get strings from
       # http://pypi.python.org/pypi?%3Aaction=list_classifiers

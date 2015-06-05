@@ -4,7 +4,7 @@ Changelog
 0.7 (unreleased)
 ----------------
 
-- Nothing changed yet.
+- Keep only README.rst as real file.
 
 
 0.6 (2015-06-05)
