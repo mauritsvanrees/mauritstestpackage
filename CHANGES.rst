@@ -4,7 +4,7 @@ Changelog
 0.4 (unreleased)
 ----------------
 
-- Nothing changed yet.
+- README.rst as symbolic link.  Extra mauritstestpackage/README.txt.
 
 
 0.3 (2015-06-05)
