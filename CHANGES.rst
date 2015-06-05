@@ -1,7 +1,7 @@
 Changelog
 =========
 
-0.3 (unreleased)
+0.3 (2015-06-05)
 ----------------
 
 - README.txt as long description, instead of README.rst.
