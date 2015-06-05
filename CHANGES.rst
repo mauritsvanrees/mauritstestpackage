@@ -4,6 +4,8 @@ Changelog
 0.5 (unreleased)
 ----------------
 
+- Remove README.rst.
+
 - Add changelog to long description.
 
 
