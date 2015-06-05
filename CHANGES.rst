@@ -4,7 +4,7 @@ Changelog
 0.5 (unreleased)
 ----------------
 
-- Nothing changed yet.
+- Add changelog to long description.
 
 
 0.4 (2015-06-05)
