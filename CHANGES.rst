@@ -1,7 +1,7 @@
 Changelog
 =========
 
-0.5 (unreleased)
+0.5 (2015-06-05)
 ----------------
 
 - Remove README.rst.
