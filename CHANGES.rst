@@ -4,7 +4,7 @@ Changelog
 0.8 (unreleased)
 ----------------
 
-- Nothing changed yet.
+- Created maurits-test-branch.  More for a git test really.
 
 
 0.7 (2015-06-05)
