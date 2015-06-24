@@ -1,7 +1,7 @@
 Changelog
 =========
 
-0.8 (unreleased)
+0.8 (2015-06-24)
 ----------------
 
 - Created maurits-test-branch.  More for a git test really.
