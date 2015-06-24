@@ -1,7 +1,7 @@
 Changelog
 =========
 
-0.8 (unreleased)
+1.0 (2015-06-24)
 ----------------
 
 - A few more releases.  Ready for 1.0.  Still doing nothing. :-)
