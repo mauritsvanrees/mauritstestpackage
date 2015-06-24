@@ -4,7 +4,7 @@ Changelog
 0.8 (unreleased)
 ----------------
 
-- Nothing changed yet.
+- A few more releases.  Ready for 1.0.  Still doing nothing. :-)
 
 
 0.7 (2015-06-05)
