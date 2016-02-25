@@ -10,7 +10,7 @@ Incompatibilities:
 
 New:
 
-- *add item here*
+- Test release to check plone.releaser.
 
 Fixes:
 
