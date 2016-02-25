@@ -1,6 +1,22 @@
 Changelog
 =========
 
+1.19 (unreleased)
+-----------------
+
+Incompatibilities:
+
+- *add item here*
+
+New:
+
+- *add item here*
+
+Fixes:
+
+- *add item here*
+
+
 1.18 (2016-02-25)
 -----------------
 
