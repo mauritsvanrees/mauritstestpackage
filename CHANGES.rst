@@ -1,7 +1,7 @@
 Changelog
 =========
 
-1.19 (unreleased)
+1.19 (2016-04-13)
 -----------------
 
 Incompatibilities:
