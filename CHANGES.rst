@@ -1,7 +1,7 @@
 Changelog
 =========
 
-1.24 (unreleased)
+1.24 (2017-01-13)
 -----------------
 
 - Renamed to mauritstestpackage2 to test uploading a new package.
