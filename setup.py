@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 version = '1.24.dev0'
 
-setup(name='mauritstestpackage',
+setup(name='mauritstestpackage2',
       version=version,
       description="Test package from Maurits for uploading to PyPI.",
       long_description=(open('README.rst').read() + '\n\n' +

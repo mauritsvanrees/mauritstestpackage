@@ -4,7 +4,8 @@ Changelog
 1.24 (unreleased)
 -----------------
 
-- Nothing changed yet.
+- Renamed to mauritstestpackage2 to test uploading a new package.
+  [maurits]
 
 
 1.23 (2016-09-13)
