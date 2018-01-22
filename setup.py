@@ -8,10 +8,11 @@ setup(name='mauritstestpackage2',
       long_description=(open('README.rst').read() + '\n\n' +
                         open('CHANGES.rst').read()),
       # Get strings from
-      # http://pypi.python.org/pypi?%3Aaction=list_classifiers
+      # https://pypi.python.org/pypi?%3Aaction=list_classifiers
       classifiers=[
             'Development Status :: 3 - Alpha',
             'Intended Audience :: Developers',
+            'License :: OSI Approved :: GNU General Public License (GPL)',
             'Programming Language :: Python',
             'Programming Language :: Python :: 2',
             'Programming Language :: Python :: 2.7',
