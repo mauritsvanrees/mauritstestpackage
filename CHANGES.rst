@@ -1,7 +1,7 @@
 Changelog
 =========
 
-1.24.1 (unreleased)
+1.24.1 (2018-01-22)
 -------------------
 
 - Nothing changed yet.
