@@ -1,10 +1,10 @@
 Changelog
 =========
 
-1.24.10 (unreleased)
+1.24.10 (2018-03-09)
 --------------------
 
-- Nothing changed yet.
+- Try git flow.
 
 
 1.24.9 (2018-03-09)
