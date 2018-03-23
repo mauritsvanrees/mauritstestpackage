@@ -1,7 +1,7 @@
 Changelog
 =========
 
-1.24.18 (unreleased)
+1.24.18 (2018-03-24)
 --------------------
 
 - Nothing changed yet.
