@@ -1,7 +1,7 @@
 Changelog
 =========
 
-1.24.14 (unreleased)
+1.24.14 (2019-02-19)
 --------------------
 
 - Nothing changed yet.
