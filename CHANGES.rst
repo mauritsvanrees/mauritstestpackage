@@ -1,7 +1,7 @@
 Changelog
 =========
 
-1.25.0 (unreleased)
+1.25.0 (2020-01-29)
 -------------------
 
 - Added .po file for checking zest.pocompile.
