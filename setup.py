@@ -7,8 +7,7 @@ setup(name='mauritstestpackage2',
       description="Test package from Maurits for uploading to PyPI.",
       long_description=(open('README.rst').read() + '\n\n' +
                         open('CHANGES.rst').read()),
-      # Get strings from
-      # https://pypi.python.org/pypi?%3Aaction=list_classifiers
+      # Get strings from https://pypi.org/classifiers/
       classifiers=[
             'Development Status :: 3 - Alpha',
             'Intended Audience :: Developers',
@@ -17,12 +16,12 @@ setup(name='mauritstestpackage2',
             'Programming Language :: Python :: 2',
             'Programming Language :: Python :: 2.7',
             'Programming Language :: Python :: 3',
-            'Programming Language :: Python :: 3.4',
+            'Programming Language :: Python :: 3.7',
             ],
       keywords='test release pypi',
       author='Maurits van Rees',
       author_email='maurits@vanrees.org',
-      url='https://pypi.python.org/pypi/mauritstestpackage',
+      url='https://github.com/mauritsvanrees/mauritstestpackage',
       license='GPL',
       packages=find_packages(exclude=['ez_setup', 'examples', 'tests']),
       include_package_data=True,
