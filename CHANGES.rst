@@ -4,7 +4,7 @@ Changelog
 1.24.15 (unreleased)
 --------------------
 
-- Nothing changed yet.
+- Added .po file for checking zest.pocompile.
 
 
 1.24.14 (2019-02-19)
