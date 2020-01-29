@@ -1,8 +1,8 @@
 Changelog
 =========
 
-1.24.15 (unreleased)
---------------------
+1.25.0 (unreleased)
+-------------------
 
 - Added .po file for checking zest.pocompile.
 
