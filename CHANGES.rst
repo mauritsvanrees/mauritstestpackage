@@ -1,7 +1,7 @@
 Changelog
 =========
 
-1.25.2 (unreleased)
+1.25.2 (2020-08-07)
 -------------------
 
 - Nothing changed yet.
