@@ -1,7 +1,7 @@
 Changelog
 =========
 
-1.25.4 (unreleased)
+1.25.4 (2020-09-03)
 -------------------
 
 - Nothing changed yet.
