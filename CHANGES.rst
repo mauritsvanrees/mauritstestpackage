@@ -1,7 +1,7 @@
 Changelog
 =========
 
-3.0.0a9 (unreleased)
+3.0.0a9 (2021-11-01)
 --------------------
 
 - Nothing changed yet.
