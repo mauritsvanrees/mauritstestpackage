@@ -1,7 +1,7 @@
 Changelog
 =========
 
-3.0.0a12 (unreleased)
+3.0.0a12 (2022-12-09)
 ---------------------
 
 - Nothing changed yet.
