@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-version = "3.0.0a17.dev0"
+version = "3.0.0a17"
 
 setup(
     name="mauritstestpackage2",

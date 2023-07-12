@@ -1,7 +1,7 @@
 Changelog
 =========
 
-3.0.0a17 (unreleased)
+3.0.0a17 (2023-07-13)
 ---------------------
 
 - Nothing changed yet.
