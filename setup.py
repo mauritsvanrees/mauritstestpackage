@@ -2,7 +2,7 @@ from setuptools import find_namespace_packages
 from setuptools import setup
 
 
-version = "3.0.0a17"
+version = "3.0.0a18.dev0"
 
 setup(
     name="mauritstestpackage2",
