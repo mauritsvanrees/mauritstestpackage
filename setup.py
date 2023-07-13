@@ -1,4 +1,6 @@
-from setuptools import setup, find_packages
+from setuptools import find_namespace_packages
+from setuptools import setup
+
 
 version = "3.0.0a17"
 
@@ -16,18 +18,17 @@ setup(
         "Programming Language :: Python :: 2",
         "Programming Language :: Python :: 2.7",
         "Programming Language :: Python :: 3",
-        "Programming Language :: Python :: 3.7",
+        "Programming Language :: Python :: 3.11",
     ],
     keywords="test release pypi",
     author="Maurits van Rees",
     author_email="maurits@vanrees.org",
     url="https://github.com/mauritsvanrees/mauritstestpackage",
     license="GPL",
-    packages=find_packages(exclude=["ez_setup", "examples", "tests"]),
+    packages=find_namespace_packages(),
     include_package_data=True,
     zip_safe=False,
     install_requires=[
-        # -*- Extra requirements: -*-
     ],
     entry_points="""
       # -*- Entry points: -*-
