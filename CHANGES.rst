@@ -1,7 +1,7 @@
 Changelog
 =========
 
-3.0.5 (unreleased)
+3.0.5 (2023-12-14)
 ------------------
 
 - Nothing changed yet.
