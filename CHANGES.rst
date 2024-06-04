@@ -1,7 +1,7 @@
 Changelog
 =========
 
-3.0.6 (unreleased)
+3.0.6 (2024-06-04)
 ------------------
 
 - Nothing changed yet.
